@@ -1,0 +1,17 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                ".stylelintrc",
+                ".stylelintrc.json",
+                "stylelint.config.js"
+            ],
+            "url": ""
+        }
+    ],
+    "stylelint.validate": [
+        "css",
+        "scss",
+        "postcss"
+    ]
+}
